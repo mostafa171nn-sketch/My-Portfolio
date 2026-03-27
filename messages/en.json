@@ -1,0 +1,97 @@
+{
+  "nav": {
+    "home": "HOME",
+    "about": "WHO I AM",
+    "services": "SERVICES",
+    "portfolio": "MY PROJECTS",
+    "contact": "SEND ME"
+  },
+  "hero": {
+    "title": "I am a professional web developer",
+    "cta": "Start your project"
+  },
+  "about": {
+    "title": "WHO I AM",
+    "bio1": "Hello, I am Mostafa Omar, a passionate front-end developer and web enthusiast. I building clean and interactive websites and turning ideas into reality. I am skilled in React, Next.js, and Tailwind, and I enjoy learning new technologies and constantly improving my skills for easier and faster user experience. Outside of programming, I am curious about design, user experience, and personal growth.",
+    "bio2": "I work with precision and attention to detail, delivering projects quickly and efficiently. I don't let anything slow me down—if there's a problem, I tackle it head-on until it's solved. Beyond coding, I'm passionate about design, user experience, and constantly improving my skills to create seamless and professional projects.",
+    "stats": {
+      "projects": "20+",
+      "experience": "2+",
+      "projectsLabel": "Completed Projects",
+      "experienceLabel": "Years of Experience"
+    }
+  },
+  "services": {
+    "title": "SERVICES",
+    "1": {
+      "icon": "💻",
+      "title": "Web Development",
+      "desc": "Professional web development using latest technologies like HTML CSS JS React Next.js Firebase Tailwind Google Sheets"
+    },
+    "2": {
+      "icon": "🎨",
+      "title": "UI/UX Design",
+      "desc": "Beautiful user interfaces focused on user experience"
+    },
+    "3": {
+      "icon": "📱",
+      "title": "Responsive Design",
+      "desc": "Perfect on all devices from phones to large screens"
+    },
+    "4": {
+      "icon": "⚡",
+      "title": "Performance Optimization",
+      "desc": "Optimize site speed for smooth user experience"
+    },
+    "5": {
+      "icon": "🔧",
+      "title": "Maintenance",
+      "desc": "Regular maintenance and updates"
+    },
+    "6": {
+      "icon": "🚀",
+      "title": "Deployment",
+      "desc": "Deploy on Vercel Git GitHub"
+    }
+  },
+  "projects": {
+    "title": "MY PROJECTS",
+    "1": {
+      "title": "Global Student",
+      "desc": "website for foreign expatriates",
+      "url": "https://website-for-expatriate-universities.vercel.app"
+    },
+    "2": {
+      "title": "My Dream Academy",
+      "desc": "swimming academy",
+      "url": "https://my-dream11-steel.vercel.app"
+    },
+    "3": {
+      "title": "E-commerce App",
+      "desc": "shopping website",
+      "url": "https://e-commerce-nine-lilac-72.vercel.app"
+    },
+    "4": {
+      "title": "Admin Dashboard",
+      "desc": "admin dashboard",
+      "url": "https://dashboard1-pinh.vercel.app"
+    },
+    "5": {
+      "title": "Fun Food Website",
+      "desc": "fun food",
+      "url": "https://fun-food.vercel.app"
+    },
+    "6": {
+      "title": "My Dream Academy Dashboard",
+      "desc": "Academy control panel",
+      "url": "https://my-dream11-steel.vercel.app/dashboard"
+    }
+  },
+  "contact": {
+    "title": "SEND ME",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send Message"
+  }
+}
